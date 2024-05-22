@@ -1,0 +1,12 @@
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\bin\Debug\net8.0\ContactUs.Domain.deps.json
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\bin\Debug\net8.0\ContactUs.Domain.dll
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\bin\Debug\net8.0\ContactUs.Domain.pdb
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.AssemblyInfo.cs
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.sourcelink.json
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.dll
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\refint\ContactUs.Domain.dll
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ContactUs.Domain.pdb
+D:\C\Projects\CoffeeDay\src\ContactUs\ContactUs.Domain\obj\Debug\net8.0\ref\ContactUs.Domain.dll
